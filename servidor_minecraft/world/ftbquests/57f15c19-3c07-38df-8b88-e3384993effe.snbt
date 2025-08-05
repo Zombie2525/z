@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "57f15c193c0738df8b88e3384993effe"
+	name: "Mike_dfs"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1754353916758L
+		4523079E2318BD94: 1754353916758L
+		2583DDB195B6CFEA: 1754353916758L
+		0000000000000001: 1754353916758L
+		2C6177EDC934F9DC: 1754353916760L
+		047C5CB3ED9A8E47: 1754353916760L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

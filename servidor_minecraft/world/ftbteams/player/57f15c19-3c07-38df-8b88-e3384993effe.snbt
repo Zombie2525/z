@@ -1,0 +1,17 @@
+{
+	id: "57f15c19-3c07-38df-8b88-e3384993effe"
+	type: "player"
+	player_name: "Mike_dfs"
+	ranks: {
+		57f15c19-3c07-38df-8b88-e3384993effe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mike_dfs"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
