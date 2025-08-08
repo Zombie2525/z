@@ -17507,3 +17507,44 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 03:01:58.484] [Server thread/INFO] [tac/]: PENDING
 [08Aug2025 03:02:04.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to 100.500000, 73.500000, -335.500000]
 [08Aug2025 03:02:34.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62907924
+[08Aug2025 03:03:34.855] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[08Aug2025 03:03:34.856] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[08Aug2025 03:03:40.220] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[08Aug2025 03:03:40.220] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[08Aug2025 03:03:40.221] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[08Aug2025 03:03:40.221] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[08Aug2025 03:03:40.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[08Aug2025 03:03:40.222] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[08Aug2025 03:03:40.222] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[08Aug2025 03:03:40.222] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[08Aug2025 03:03:40.223] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[08Aug2025 03:03:40.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[08Aug2025 03:03:40.237] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[08Aug2025 03:03:40.238] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[08Aug2025 03:03:40.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:03:40.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:06:05.991] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[08Aug2025 03:06:14.004] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=false, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[08Aug2025 03:06:18.560] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[08Aug2025 03:06:55.005] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[08Aug2025 03:08:40.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[08Aug2025 03:08:40.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[08Aug2025 03:08:40.221] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[08Aug2025 03:08:40.232] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[08Aug2025 03:08:40.233] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[08Aug2025 03:08:40.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:08:40.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:09:16.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs moved wrongly!
+[08Aug2025 03:09:42.599] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=true, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[08Aug2025 03:10:14.955] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[08Aug2025 03:10:42.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Runner
+[08Aug2025 03:10:43.563] [IO-Worker-121/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[08Aug2025 03:10:43.584] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[08Aug2025 03:10:44.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 03:10:44.202] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 03:10:51.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 154.500000, 68.500000, -290.500000]
+[08Aug2025 03:11:30.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Wheezer
+[08Aug2025 03:11:31.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 03:11:31.577] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 03:11:36.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to 120.500000, 71.500000, -307.500000]
+[08Aug2025 03:12:14.620] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131

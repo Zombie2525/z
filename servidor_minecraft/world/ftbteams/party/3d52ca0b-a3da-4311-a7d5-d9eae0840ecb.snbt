@@ -10,7 +10,7 @@
 		"ftbteams:display_name": "Insanidi"
 		"ftbteams:description": ""
 		"ftbteams:color": "#FF59A2"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 	}
 	message_history: [

@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-08-08 02:59:29 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
@@ -391,6 +397,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-08-08 03:02:34 +0000",
       "scrubland": "2025-08-08 01:54:00 +0000",
       "mediterranean_forest": "2025-08-08 01:53:27 +0000"
     },
@@ -398,6 +405,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-08-08 03:00:11 +0000",
       "minecraft:river": "2025-08-08 02:28:23 +0000",
       "minecraft:savanna": "2025-08-08 02:53:13 +0000"
     },
