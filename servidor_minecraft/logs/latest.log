@@ -1183,3 +1183,8 @@
 [08Aug2025 07:02:45.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d9df8bbe-72d7-3807-b50f-32397961fe89
 [08Aug2025 07:02:46.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d9df8bbe-72d7-3807-b50f-32397961fe89
 [08Aug2025 07:02:46.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MichiDAce (d9df8bbe-72d7-3807-b50f-32397961fe89) successfully connected to voice chat
+[08Aug2025 07:08:07.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Crops of the Wild]
+[08Aug2025 07:08:17.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement ['X' Marks the Spot]
+[08Aug2025 07:08:41.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Close Quarters]
+[08Aug2025 07:14:01.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported MichiDAce to Mike_dfs]
+[08Aug2025 07:14:16.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Monster Hunter]

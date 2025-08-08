@@ -17916,3 +17916,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 07:05:24.286] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
 [08Aug2025 07:05:46.492] [IO-Worker-152/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
 [08Aug2025 07:06:01.017] [IO-Worker-156/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
+[08Aug2025 07:06:47.766] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[08Aug2025 07:06:47.766] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[08Aug2025 07:06:58.340] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[08Aug2025 07:06:58.341] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[08Aug2025 07:06:58.341] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[08Aug2025 07:06:58.342] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[08Aug2025 07:06:58.343] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[08Aug2025 07:06:58.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[08Aug2025 07:06:58.354] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[08Aug2025 07:06:58.356] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[08Aug2025 07:06:58.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 07:06:58.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 07:07:58.144] [Server thread/DEBUG] [mixin/]: Mixing create.MixinOpenEndedPipe from thirst.mixin.json into com.simibubi.create.content.fluids.OpenEndedPipe
+[08Aug2025 07:08:07.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Crops of the Wild]
+[08Aug2025 07:08:17.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement ['X' Marks the Spot]
+[08Aug2025 07:08:41.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Close Quarters]
+[08Aug2025 07:10:07.966] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[08Aug2025 07:10:52.871] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[08Aug2025 07:11:13.125] [IO-Worker-154/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[08Aug2025 07:11:13.125] [IO-Worker-154/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[08Aug2025 07:11:58.342] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -3] Saved.
+[08Aug2025 07:11:58.342] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[08Aug2025 07:11:58.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[08Aug2025 07:11:58.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[08Aug2025 07:11:58.344] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[08Aug2025 07:11:58.357] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[08Aug2025 07:11:58.358] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[08Aug2025 07:11:58.358] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[08Aug2025 07:11:58.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 07:11:58.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 07:13:27.866] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[08Aug2025 07:14:01.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported MichiDAce to Mike_dfs]
+[08Aug2025 07:14:01.296] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[08Aug2025 07:14:16.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Monster Hunter]
+[08Aug2025 07:15:11.081] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173

@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "MichiDAce"
+	last_seen: { dim: "minecraft:overworld", x: 16, y: 74, z: -48, time: 1754636550904L, xRot: 0.0f, yRot: 0.0f }
+	recording: 0
+	teleport_history: [{ dim: "minecraft:overworld", x: -38, y: 72, z: 84, time: 1754636809739L, xRot: 33.150276f, yRot: -95.70053f }]
+	homes: { }
+}

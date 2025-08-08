@@ -1,0 +1,15 @@
+{
+	id: "d9df8bbe-72d7-3807-b50f-32397961fe89"
+	type: "player"
+	player_name: "MichiDAce"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MichiDAce"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
