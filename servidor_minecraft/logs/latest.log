@@ -1159,3 +1159,8 @@
 [08Aug2025 06:35:50.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -51.500000, 70.500000, -944.500000]
 [08Aug2025 06:36:13.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
 [08Aug2025 06:42:19.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Suit Up]
+[08Aug2025 06:54:50.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Stone Age]
+[08Aug2025 06:55:04.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Getting an Upgrade]
+[08Aug2025 06:55:17.813] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-78, y=66, z=-894}
+[08Aug2025 06:55:21.307] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-78, y=66, z=-891}
+[08Aug2025 06:56:10.635] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN

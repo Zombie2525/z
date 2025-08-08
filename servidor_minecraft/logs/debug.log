@@ -17473,3 +17473,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 06:42:19.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Suit Up]
 [08Aug2025 06:43:27.716] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [08Aug2025 06:44:34.678] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[08Aug2025 06:46:47.666] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[08Aug2025 06:46:47.666] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[08Aug2025 06:46:58.336] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[08Aug2025 06:46:58.336] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[08Aug2025 06:46:58.347] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[08Aug2025 06:46:58.347] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[08Aug2025 06:46:58.348] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[08Aug2025 06:46:58.349] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[08Aug2025 06:46:58.351] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[08Aug2025 06:46:58.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:46:58.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:50:07.866] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[08Aug2025 06:51:58.331] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[08Aug2025 06:51:58.331] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[08Aug2025 06:51:58.332] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[08Aug2025 06:51:58.332] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[08Aug2025 06:51:58.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[08Aug2025 06:51:58.343] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[08Aug2025 06:51:58.345] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[08Aug2025 06:51:58.346] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[08Aug2025 06:51:58.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:51:58.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:53:27.473] [IO-Worker-125/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[08Aug2025 06:53:27.766] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[08Aug2025 06:54:50.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Stone Age]
+[08Aug2025 06:55:04.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Getting an Upgrade]
+[08Aug2025 06:55:17.813] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-78, y=66, z=-894}
+[08Aug2025 06:55:21.307] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-78, y=66, z=-891}
+[08Aug2025 06:56:00.274] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[08Aug2025 06:56:10.635] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
