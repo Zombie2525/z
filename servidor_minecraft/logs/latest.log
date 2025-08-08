@@ -1164,3 +1164,22 @@
 [08Aug2025 06:55:17.813] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-78, y=66, z=-894}
 [08Aug2025 06:55:21.307] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-78, y=66, z=-891}
 [08Aug2025 06:56:10.635] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Aug2025 06:56:34.030] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Aug2025 06:59:29.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@613f59ef[id=<null>,name=Michi D Ace,properties={},legacy=false] (/100.84.131.117:62625) lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Aug2025 06:59:44.238] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3239f54d[id=<null>,name=Michi D Ace,properties={},legacy=false] (/100.84.131.117:62631) lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Aug2025 07:01:36.216] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13040 in minecraft:overworld
+[08Aug2025 07:01:36.229] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13040 in lostcities:lostcity
+[08Aug2025 07:01:36.229] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13040 in deceasedcraft:abyss
+[08Aug2025 07:01:36.229] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13040 in minecraft:the_end
+[08Aug2025 07:01:36.230] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13040 in minecraft:the_nether
+[08Aug2025 07:02:30.825] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4765482f
+[08Aug2025 07:02:30.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MichiDAce[/100.84.131.117:62711] logged in with entity id 423903 at (16.5, 74.0, -47.5)
+[08Aug2025 07:02:30.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce joined the game
+[08Aug2025 07:02:30.851] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 07:02:30.892] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d9df8bbe-72d7-3807-b50f-32397961fe89
+[08Aug2025 07:02:30.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Inhospitable]
+[08Aug2025 07:02:31.689] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MichiDAce (17)
+[08Aug2025 07:02:31.690] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MichiDAce
+[08Aug2025 07:02:45.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d9df8bbe-72d7-3807-b50f-32397961fe89
+[08Aug2025 07:02:46.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d9df8bbe-72d7-3807-b50f-32397961fe89
+[08Aug2025 07:02:46.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MichiDAce (d9df8bbe-72d7-3807-b50f-32397961fe89) successfully connected to voice chat
