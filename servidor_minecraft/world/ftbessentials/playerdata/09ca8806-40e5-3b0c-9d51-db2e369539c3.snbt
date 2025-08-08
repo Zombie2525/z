@@ -6,6 +6,12 @@
 	name: "Raven2332"
 	last_seen: { dim: "minecraft:overworld", x: 46, y: 63, z: -427, time: 1754632757127L, xRot: -37.570427f, yRot: 97.23414f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 95, y: 62, z: -421, time: 1754633223030L, xRot: 62.858047f, yRot: -12.880313f }
+		{ dim: "minecraft:overworld", x: 12, y: 73, z: -42, time: 1754633259542L, xRot: 10.223952f, yRot: -11.440002f }
+		{ dim: "minecraft:overworld", x: 106, y: 66, z: -470, time: 1754633396328L, xRot: -14.004606f, yRot: 141.24854f }
+		{ dim: "minecraft:overworld", x: 89, y: 71, z: -121, time: 1754633482429L, xRot: 8.745723f, yRot: -163.91542f }
+		{ dim: "minecraft:overworld", x: 96, y: 66, z: -457, time: 1754633502673L, xRot: 7.0623055f, yRot: -111.77823f }
+	]
 	homes: { }
 }

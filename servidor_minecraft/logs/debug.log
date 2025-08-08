@@ -17160,3 +17160,129 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 06:05:09.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs died from dehydration
 [08Aug2025 06:05:10.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [08Aug2025 06:05:10.520] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:05:49.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 06:05:50.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:05:50.306] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:06:47.466] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[08Aug2025 06:06:47.466] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[08Aug2025 06:06:52.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 06:06:52.484] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Aug2025 06:06:52.484] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[08Aug2025 06:06:52.484] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[08Aug2025 06:06:52.485] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[08Aug2025 06:06:52.485] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[08Aug2025 06:06:53.490] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[08Aug2025 06:06:53.491] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[08Aug2025 06:06:54.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:06:54.222] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:06:58.339] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[08Aug2025 06:06:58.342] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[08Aug2025 06:06:58.359] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[08Aug2025 06:06:58.361] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[08Aug2025 06:06:58.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:06:58.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:07:03.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 06:07:04.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:07:04.709] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:07:12.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Peaceful]
+[08Aug2025 06:07:33.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Made Raven2332 a server operator]
+[08Aug2025 06:07:39.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 95.500000, 62.500000, -421.500000]
+[08Aug2025 06:08:17.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Normal]
+[08Aug2025 06:08:19.518] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in minecraft:overworld
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in lostcities:lostcity
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in deceasedcraft:abyss
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in minecraft:the_end
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in minecraft:the_nether
+[08Aug2025 06:08:24.833] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[08Aug2025 06:09:56.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Husk
+[08Aug2025 06:09:57.323] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[08Aug2025 06:09:57.324] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[08Aug2025 06:10:07.666] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[08Aug2025 06:10:47.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:10:47.077] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:11:22.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 106.500000, 66.500000, -469.500000]
+[08Aug2025 06:11:22.529] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[08Aug2025 06:11:42.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 06:11:58.333] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[08Aug2025 06:11:58.346] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[08Aug2025 06:11:58.346] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[08Aug2025 06:11:58.347] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[08Aug2025 06:11:58.346] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[08Aug2025 06:11:58.349] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[08Aug2025 06:11:58.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:11:58.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:12:15.626] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=true, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[08Aug2025 06:12:16.077] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=false, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[08Aug2025 06:13:27.566] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[08Aug2025 06:13:51.928] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[08Aug2025 06:13:51.935] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[08Aug2025 06:13:51.939] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[08Aug2025 06:13:51.941] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[08Aug2025 06:13:51.943] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[08Aug2025 06:13:51.945] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[08Aug2025 06:13:51.948] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[08Aug2025 06:13:51.954] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[08Aug2025 06:13:51.983] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[08Aug2025 06:13:51.994] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[08Aug2025 06:13:52.002] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[08Aug2025 06:13:52.007] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[08Aug2025 06:13:52.017] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[08Aug2025 06:13:52.025] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa8
+[08Aug2025 06:13:52.031] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[08Aug2025 06:13:52.038] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[08Aug2025 06:13:52.042] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[08Aug2025 06:13:52.045] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[08Aug2025 06:13:52.048] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[08Aug2025 06:13:52.052] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[08Aug2025 06:13:52.059] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[08Aug2025 06:13:52.072] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[08Aug2025 06:13:52.078] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[08Aug2025 06:13:52.082] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[08Aug2025 06:13:52.085] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[08Aug2025 06:13:52.088] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[08Aug2025 06:13:52.091] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[08Aug2025 06:13:52.179] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[08Aug2025 06:13:52.193] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[08Aug2025 06:13:52.351] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[08Aug2025 06:13:52.375] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[08Aug2025 06:13:52.406] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[08Aug2025 06:13:52.517] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[08Aug2025 06:13:52.549] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[08Aug2025 06:13:52.609] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[08Aug2025 06:13:52.679] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[08Aug2025 06:13:52.713] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[08Aug2025 06:13:52.782] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:prision
+[08Aug2025 06:13:52.853] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:bases
+[08Aug2025 06:13:52.897] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:baselooters
+[08Aug2025 06:13:52.905] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[08Aug2025 06:13:52.962] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[08Aug2025 06:13:52.978] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[08Aug2025 06:13:52.982] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation1
+[08Aug2025 06:13:52.991] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation2
+[08Aug2025 06:13:52.995] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medic1
+[08Aug2025 06:13:52.997] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[08Aug2025 06:13:52.998] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[08Aug2025 06:13:53.001] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[08Aug2025 06:13:53.006] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[08Aug2025 06:13:53.012] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[08Aug2025 06:13:53.030] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[08Aug2025 06:13:53.038] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[08Aug2025 06:13:53.043] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[08Aug2025 06:13:53.054] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[08Aug2025 06:13:53.065] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[08Aug2025 06:13:53.124] [Worker-Main12/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:city1
+[08Aug2025 06:14:04.185] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[08Aug2025 06:14:04.185] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[08Aug2025 06:14:09.121] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[08Aug2025 06:14:15.477] [Worker-Main11/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[08Aug2025 06:14:46.854] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[08Aug2025 06:15:01.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 06:15:02.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:15:02.915] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:15:20.435] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Aug2025 06:15:20.436] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Aug2025 06:15:20.436] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[08Aug2025 06:15:24.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 06:15:25.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:15:25.828] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:15:38.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Disme A Dozen]

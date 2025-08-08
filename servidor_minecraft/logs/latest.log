@@ -1041,3 +1041,38 @@
 [08Aug2025 06:05:09.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs died from dehydration
 [08Aug2025 06:05:10.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [08Aug2025 06:05:10.520] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:05:49.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 06:05:50.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:05:50.306] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:06:52.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 06:06:52.484] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Aug2025 06:06:52.484] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[08Aug2025 06:06:52.484] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[08Aug2025 06:06:52.485] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[08Aug2025 06:06:52.485] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[08Aug2025 06:06:54.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:06:54.222] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:07:03.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 06:07:04.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:07:04.709] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:07:12.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Peaceful]
+[08Aug2025 06:07:33.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Made Raven2332 a server operator]
+[08Aug2025 06:07:39.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 95.500000, 62.500000, -421.500000]
+[08Aug2025 06:08:17.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Normal]
+[08Aug2025 06:08:19.518] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in minecraft:overworld
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in lostcities:lostcity
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in deceasedcraft:abyss
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in minecraft:the_end
+[08Aug2025 06:08:19.524] [Server thread/INFO] [sereneseasons/]: Season time skipped by 13375 in minecraft:the_nether
+[08Aug2025 06:09:56.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Husk
+[08Aug2025 06:10:47.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:10:47.077] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:11:22.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 106.500000, 66.500000, -469.500000]
+[08Aug2025 06:11:42.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 06:15:01.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 06:15:02.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:15:02.915] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:15:24.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 06:15:25.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:15:25.828] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:15:38.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Disme A Dozen]
