@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2025-08-08 06:22:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
@@ -302,6 +308,12 @@
   "crossbowverhaul:recipes/combat/crossbow_netherite": {
     "criteria": {
       "has_crossbow": "2025-08-08 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2025-08-08 06:24:00 +0000"
     },
     "done": true
   },
@@ -410,6 +422,7 @@
       "minecraft:beach": "2025-08-08 03:00:11 +0000",
       "minecraft:river": "2025-08-08 02:28:23 +0000",
       "minecraft:lukewarm_ocean": "2025-08-08 06:12:17 +0000",
+      "minecraft:forest": "2025-08-08 06:25:01 +0000",
       "minecraft:savanna": "2025-08-08 02:53:13 +0000"
     },
     "done": false
@@ -540,6 +553,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/super_magnet": {
+    "criteria": {
+      "super_magnet": "2025-08-08 06:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-08-08 02:57:21 +0000",
@@ -620,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-08 06:22:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
@@ -638,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-08 06:26:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
@@ -648,6 +679,12 @@
     "criteria": {
       "has_blazepowder": "2025-08-08 01:53:27 +0000",
       "has_bolt": "2025-08-08 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2025-08-08 06:26:27 +0000"
     },
     "done": true
   },
