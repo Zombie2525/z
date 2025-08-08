@@ -1,0 +1,22 @@
+{
+	id: "3d52ca0b-a3da-4311-a7d5-d9eae0840ecb"
+	type: "party"
+	owner: "57f15c19-3c07-38df-8b88-e3384993effe"
+	ranks: {
+		09ca8806-40e5-3b0c-9d51-db2e369539c3: "member"
+		57f15c19-3c07-38df-8b88-e3384993effe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Insanidi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1754621599898L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Mike_dfs\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "57f15c19-3c07-38df-8b88-e3384993effe", date: 1754621599906L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Raven2332\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1754621606673L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Raven2332\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

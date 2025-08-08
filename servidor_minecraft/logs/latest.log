@@ -1164,3 +1164,27 @@
 [08Aug2025 02:51:33.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [08Aug2025 02:51:33.773] [Server thread/INFO] [tac/]: PENDING
 [08Aug2025 02:51:37.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Peaceful]
+[08Aug2025 02:54:07.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[08Aug2025 02:54:43.006] [Server thread/INFO] [sereneseasons/]: Season time skipped by 18456 in minecraft:overworld
+[08Aug2025 02:54:43.012] [Server thread/INFO] [sereneseasons/]: Season time skipped by 18456 in minecraft:the_nether
+[08Aug2025 02:54:43.012] [Server thread/INFO] [sereneseasons/]: Season time skipped by 18456 in minecraft:the_end
+[08Aug2025 02:54:43.012] [Server thread/INFO] [sereneseasons/]: Season time skipped by 18456 in lostcities:lostcity
+[08Aug2025 02:54:43.012] [Server thread/INFO] [sereneseasons/]: Season time skipped by 18456 in deceasedcraft:abyss
+[08Aug2025 02:54:55.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Normal]
+[08Aug2025 02:56:22.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs died from dehydration
+[08Aug2025 02:56:23.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:56:23.768] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:59:32.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Raven2332
+[08Aug2025 02:59:33.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:59:33.528] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:59:40.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to -129.500000, 66.500000, -318.500000]
+[08Aug2025 03:01:18.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 03:01:19.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 03:01:19.789] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 03:01:27.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -30.500000, 64.500000, -320.500000]
+[08Aug2025 03:01:47.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Easy]
+[08Aug2025 03:01:57.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Runner
+[08Aug2025 03:01:58.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 03:01:58.484] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 03:02:04.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to 100.500000, 73.500000, -335.500000]
+[08Aug2025 03:02:34.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@62907924

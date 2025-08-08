@@ -2,9 +2,7 @@
 	id: "09ca8806-40e5-3b0c-9d51-db2e369539c3"
 	type: "player"
 	player_name: "Raven2332"
-	ranks: {
-		09ca8806-40e5-3b0c-9d51-db2e369539c3: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Raven2332"
 		"ftbteams:description": ""

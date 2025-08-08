@@ -398,7 +398,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-08-08 02:28:23 +0000"
+      "minecraft:river": "2025-08-08 02:28:23 +0000",
+      "minecraft:savanna": "2025-08-08 02:53:13 +0000"
     },
     "done": false
   },
@@ -429,6 +430,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-08 02:55:21 +0000"
     },
     "done": true
   },
@@ -512,6 +519,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-08-08 02:57:21 +0000",
       "minecraft:zombie": "2025-08-08 02:35:52 +0000"
     },
     "done": false
@@ -519,6 +527,12 @@
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2025-08-08 02:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_skillet": {
+    "criteria": {
+      "skillet": "2025-08-08 02:55:21 +0000"
     },
     "done": true
   },
