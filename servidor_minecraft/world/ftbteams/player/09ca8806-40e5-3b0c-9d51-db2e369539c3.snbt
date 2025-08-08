@@ -1,0 +1,17 @@
+{
+	id: "09ca8806-40e5-3b0c-9d51-db2e369539c3"
+	type: "player"
+	player_name: "Raven2332"
+	ranks: {
+		09ca8806-40e5-3b0c-9d51-db2e369539c3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Raven2332"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
