@@ -1107,3 +1107,60 @@
 [08Aug2025 02:41:54.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Raven2332'/139067, l='ServerLevel[world]', x=24.67, y=72.00, z=-26.00] died: entity.hordes.ZombiePlayer.chat was slain by Raven2332
 [08Aug2025 02:42:00.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
 [08Aug2025 02:42:49.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:42:51.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:42:51.296] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:43:45.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:43:46.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:43:46.135] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:44:04.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Crops of the Wild]
+[08Aug2025 02:45:36.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has completed the challenge [Yo mama so fat, she can summon zombies]
+[08Aug2025 02:48:38.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:48:39.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:48:39.689] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:48:47.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Made Raven2332 a server operator]
+[08Aug2025 02:49:05.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -31.500000, 72.500000, -55.500000]
+[08Aug2025 02:49:07.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:49:08.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:49:08.933] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:49:14.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -31.500000, 72.500000, -57.500000]
+[08Aug2025 02:49:14.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:49:15.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:49:15.635] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:49:21.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -31.500000, 72.500000, -57.500000]
+[08Aug2025 02:49:31.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Wheezer
+[08Aug2025 02:49:32.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:49:32.918] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:49:37.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -31.500000, 72.500000, -78.500000]
+[08Aug2025 02:49:42.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:49:43.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:49:43.645] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:50:05.757] [Server thread/INFO] [sereneseasons/]: Season time skipped by 17113 in minecraft:overworld
+[08Aug2025 02:50:05.768] [Server thread/INFO] [sereneseasons/]: Season time skipped by 17113 in minecraft:the_nether
+[08Aug2025 02:50:05.768] [Server thread/INFO] [sereneseasons/]: Season time skipped by 17113 in minecraft:the_end
+[08Aug2025 02:50:05.768] [Server thread/INFO] [sereneseasons/]: Season time skipped by 17113 in lostcities:lostcity
+[08Aug2025 02:50:05.768] [Server thread/INFO] [sereneseasons/]: Season time skipped by 17113 in deceasedcraft:abyss
+[08Aug2025 02:50:19.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:50:22.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:50:22.055] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:50:25.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -9.500000, 73.500000, -52.500000]
+[08Aug2025 02:50:32.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[08Aug2025 02:50:36.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -31.500000, 73.500000, -79.500000]
+[08Aug2025 02:50:45.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Wheezer
+[08Aug2025 02:50:46.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:50:46.818] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:50:50.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 02:50:51.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -31.500000, 72.500000, -50.500000]
+[08Aug2025 02:50:52.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:50:52.019] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:50:59.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:51:00.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:51:00.690] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:51:08.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Wheezer
+[08Aug2025 02:51:09.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:51:09.706] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:51:13.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -21.500000, 72.500000, -32.500000]
+[08Aug2025 02:51:15.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Normal]
+[08Aug2025 02:51:31.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:51:33.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:51:33.773] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:51:37.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: The difficulty has been set to Peaceful]

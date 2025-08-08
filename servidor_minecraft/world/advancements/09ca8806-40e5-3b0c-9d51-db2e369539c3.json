@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-08 02:44:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
@@ -423,6 +429,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-08-08 02:39:21 +0000"
     },
     "done": true
   },
