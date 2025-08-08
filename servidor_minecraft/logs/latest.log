@@ -1076,3 +1076,21 @@
 [08Aug2025 06:15:25.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [08Aug2025 06:15:25.828] [Server thread/INFO] [tac/]: PENDING
 [08Aug2025 06:15:38.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Disme A Dozen]
+[08Aug2025 06:15:43.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 06:15:45.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:15:45.960] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:16:06.533] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-5, y=76, z=-743}
+[08Aug2025 06:19:06.780] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5056 in lostcities:lostcity
+[08Aug2025 06:19:06.782] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5056 in deceasedcraft:abyss
+[08Aug2025 06:19:06.783] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5056 in minecraft:the_end
+[08Aug2025 06:19:06.783] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5056 in minecraft:the_nether
+[08Aug2025 06:19:06.816] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5056 in minecraft:overworld
+[08Aug2025 06:20:14.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Infected Police
+[08Aug2025 06:20:21.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 06:20:21.012] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 06:20:31.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Suit Up]
+[08Aug2025 06:21:14.054] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@765eaa1d
+[08Aug2025 06:22:37.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Disme A Dozen]
+[08Aug2025 06:22:45.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Diamonds!]
+[08Aug2025 06:24:00.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [They're out there...]
+[08Aug2025 06:24:00.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Now everything belongs to me.]

@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-08 06:20:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-05 01:27:09 +0000"
@@ -402,6 +408,7 @@
       "minecraft:beach": "2025-08-08 02:57:21 +0000",
       "minecraft:lukewarm_ocean": "2025-08-08 03:13:36 +0000",
       "minecraft:river": "2025-08-08 02:29:43 +0000",
+      "minecraft:forest": "2025-08-08 06:20:02 +0000",
       "minecraft:savanna": "2025-08-08 02:54:07 +0000"
     },
     "done": false

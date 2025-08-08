@@ -6,6 +6,11 @@
 	name: "Mike_dfs"
 	last_seen: { dim: "minecraft:overworld", x: 47, y: 73, z: -427, time: 1754632656220L, xRot: 49.499912f, yRot: 91.49988f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 11, y: 62, z: -484, time: 1754633604982L, xRot: 60.150047f, yRot: -55.81006f }
+		{ dim: "minecraft:overworld", x: -5, y: 76, z: -746, time: 1754633701824L, xRot: 2.250016f, yRot: 75.00116f }
+		{ dim: "minecraft:overworld", x: -7, y: 76, z: -742, time: 1754633724676L, xRot: 1.9499348f, yRot: 120.90025f }
+		{ dim: "minecraft:overworld", x: -5, y: 77, z: -745, time: 1754633743425L, xRot: 33.14994f, yRot: 75.2995f }
+	]
 	homes: { }
 }

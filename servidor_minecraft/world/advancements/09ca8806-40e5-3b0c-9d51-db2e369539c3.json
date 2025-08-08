@@ -409,6 +409,7 @@
     "criteria": {
       "minecraft:beach": "2025-08-08 03:00:11 +0000",
       "minecraft:river": "2025-08-08 02:28:23 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-08 06:12:17 +0000",
       "minecraft:savanna": "2025-08-08 02:53:13 +0000"
     },
     "done": false
@@ -464,6 +465,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-08 06:15:38 +0000"
     },
     "done": true
   },
