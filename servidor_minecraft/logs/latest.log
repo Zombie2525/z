@@ -1006,3 +1006,104 @@
 [08Aug2025 02:16:22.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 57f15c19-3c07-38df-8b88-e3384993effe
 [08Aug2025 02:16:23.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 57f15c19-3c07-38df-8b88-e3384993effe
 [08Aug2025 02:16:23.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mike_dfs (57f15c19-3c07-38df-8b88-e3384993effe) successfully connected to voice chat
+[08Aug2025 02:24:40.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Moonflower
+[08Aug2025 02:24:50.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:24:50.299] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:24:59.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Moonflower
+[08Aug2025 02:25:24.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Mike_dfs a server operator
+[08Aug2025 02:25:29.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:25:29.739] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:25:33.068] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d6ba95b
+[08Aug2025 02:25:33.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Raven2332[/100.81.151.23:56396] logged in with entity id 58507 at (2.7799548323155086, 73.0, -44.23027026389471)
+[08Aug2025 02:25:33.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 joined the game
+[08Aug2025 02:25:33.100] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:25:33.159] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 09ca8806-40e5-3b0c-9d51-db2e369539c3
+[08Aug2025 02:25:33.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Raven2332 (17)
+[08Aug2025 02:25:33.684] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Raven2332
+[08Aug2025 02:25:39.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:25:42.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 09ca8806-40e5-3b0c-9d51-db2e369539c3
+[08Aug2025 02:25:43.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 09ca8806-40e5-3b0c-9d51-db2e369539c3
+[08Aug2025 02:25:43.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Raven2332 (09ca8806-40e5-3b0c-9d51-db2e369539c3) successfully connected to voice chat
+[08Aug2025 02:25:45.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:25:45.296] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:25:54.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:25:55.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:25:55.660] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:28:20.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Wheezer
+[08Aug2025 02:28:21.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:28:21.885] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:30:03.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Infected Police
+[08Aug2025 02:30:07.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:30:09.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:30:09.109] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:30:53.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:30:53.285] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:31:21.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:31:22.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:31:22.474] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:31:37.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Moonflower
+[08Aug2025 02:31:38.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:31:38.797] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:31:51.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:31:52.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:31:52.881] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:32:53.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 died from dehydration while fighting The Moonflower
+[08Aug2025 02:32:55.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:32:55.248] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:33:52.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 02:34:00.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement ['X' Marks the Spot]
+[08Aug2025 02:34:04.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement ['X' Marks the Spot]
+[08Aug2025 02:34:17.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Connecting]
+[08Aug2025 02:35:22.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Monster Hunter]
+[08Aug2025 02:35:52.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Monster Hunter]
+[08Aug2025 02:36:22.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Upgrading your Grid]
+[08Aug2025 02:36:23.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Refined Storage]
+[08Aug2025 02:36:28.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Amateur Archaeologist]
+[08Aug2025 02:36:29.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Mike_dfs
+[08Aug2025 02:36:30.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:36:30.705] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:36:41.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 02:37:06.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> matane
+[08Aug2025 02:37:13.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Raven2332
+[08Aug2025 02:37:15.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:37:15.041] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:37:19.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[08Aug2025 02:37:51.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:37:52.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by The Wheezer
+[08Aug2025 02:37:52.333] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Aug2025 02:37:52.334] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[08Aug2025 02:37:52.334] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[08Aug2025 02:37:52.334] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[08Aug2025 02:37:52.334] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[08Aug2025 02:37:54.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:37:54.878] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:37:58.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:37:58.406] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:38:13.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> ven
+[08Aug2025 02:38:34.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:38:36.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:38:36.177] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:38:58.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:39:01.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:39:01.091] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:39:17.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 02:39:21.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [First Day]
+[08Aug2025 02:40:04.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by The Moonflower
+[08Aug2025 02:40:05.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:40:05.788] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:40:20.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 02:40:42.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[08Aug2025 02:40:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:40:43.704] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:40:48.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[08Aug2025 02:40:59.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[08Aug2025 02:41:01.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 02:41:01.176] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 02:41:22.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Raven2332'/156540, l='ServerLevel[world]', x=-59.70, y=77.00, z=-157.70] died: entity.hordes.ZombiePlayer.chat was slain by Mike_dfs
+[08Aug2025 02:41:40.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Amateur Archaeologist]
+[08Aug2025 02:41:40.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Connecting]
+[08Aug2025 02:41:40.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Upgrading your Grid]
+[08Aug2025 02:41:40.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Refined Storage]
+[08Aug2025 02:41:54.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Raven2332'/139067, l='ServerLevel[world]', x=24.67, y=72.00, z=-26.00] died: entity.hordes.ZombiePlayer.chat was slain by Raven2332
+[08Aug2025 02:42:00.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 02:42:49.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
