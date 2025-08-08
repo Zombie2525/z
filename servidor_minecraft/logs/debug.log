@@ -17951,3 +17951,61 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 07:14:01.296] [IO-Worker-161/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
 [08Aug2025 07:14:16.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Monster Hunter]
 [08Aug2025 07:15:11.081] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[08Aug2025 07:16:35.035] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[08Aug2025 07:16:36.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [First Day]
+[08Aug2025 07:16:47.816] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[08Aug2025 07:16:47.816] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[08Aug2025 07:16:58.348] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[08Aug2025 07:16:58.349] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[08Aug2025 07:16:58.352] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[08Aug2025 07:16:58.366] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[08Aug2025 07:16:58.366] [IO-Worker-176/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[08Aug2025 07:16:58.372] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[08Aug2025 07:16:58.373] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[08Aug2025 07:16:58.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 07:16:58.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 07:18:01.231] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[08Aug2025 07:18:02.483] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[08Aug2025 07:18:51.989] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Mike_dfs: {disabled=true, disconnected=false, uuid=57f15c19-3c07-38df-8b88-e3384993effe, name=Mike_dfs, group=null}
+[08Aug2025 07:19:48.322] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[08Aug2025 07:19:48.352] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[08Aug2025 07:20:08.016] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[08Aug2025 07:20:52.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has completed the challenge [Yo mama so fat, she can summon zombies]
+[08Aug2025 07:20:58.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Diamonds!]
+[08Aug2025 07:21:26.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by MichiDAce
+[08Aug2025 07:21:27.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[08Aug2025 07:21:27.947] [Server thread/INFO] [tac/]: PENDING
+[08Aug2025 07:21:57.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 07:21:57.332] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[08Aug2025 07:21:58.342] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[08Aug2025 07:21:58.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[08Aug2025 07:21:58.344] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[08Aug2025 07:21:58.354] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[08Aug2025 07:21:58.355] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[08Aug2025 07:21:58.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 07:21:58.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 07:23:27.916] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[08Aug2025 07:23:56.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> dormir
+[08Aug2025 07:24:07.084] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=true, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.581] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=false, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.631] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=true, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.635] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=false, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.682] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=true, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.732] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=false, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.781] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=true, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.785] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=false, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.833] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=true, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.834] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=false, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:07.883] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=true, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[08Aug2025 07:24:28.316] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8559 in minecraft:overworld
+[08Aug2025 07:24:28.330] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8559 in lostcities:lostcity
+[08Aug2025 07:24:28.330] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8559 in deceasedcraft:abyss
+[08Aug2025 07:24:28.331] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8559 in minecraft:the_end
+[08Aug2025 07:24:28.331] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8559 in minecraft:the_nether
+[08Aug2025 07:24:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Sweet Dreams]
+[08Aug2025 07:24:41.671] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[08Aug2025 07:25:05.381] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5260 in lostcities:lostcity
+[08Aug2025 07:25:05.382] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5260 in deceasedcraft:abyss
+[08Aug2025 07:25:05.383] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5260 in minecraft:the_end
+[08Aug2025 07:25:05.383] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5260 in minecraft:the_nether
+[08Aug2025 07:25:05.416] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5260 in minecraft:overworld
