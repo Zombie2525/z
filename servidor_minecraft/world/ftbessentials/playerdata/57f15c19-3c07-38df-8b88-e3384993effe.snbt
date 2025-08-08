@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "Mike_dfs"
+	last_seen: { dim: "minecraft:overworld", x: 47, y: 73, z: -427, time: 1754632656220L, xRot: 49.499912f, yRot: 91.49988f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

@@ -423,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-08 03:14:06 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 01:53:27 +0000"

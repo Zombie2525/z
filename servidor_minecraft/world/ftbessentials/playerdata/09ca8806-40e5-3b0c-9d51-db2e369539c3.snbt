@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "Raven2332"
+	last_seen: { dim: "minecraft:overworld", x: 46, y: 63, z: -427, time: 1754632757127L, xRot: -37.570427f, yRot: 97.23414f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

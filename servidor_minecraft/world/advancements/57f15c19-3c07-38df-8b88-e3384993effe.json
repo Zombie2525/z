@@ -394,6 +394,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-08-08 02:57:21 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-08 03:13:36 +0000",
       "minecraft:river": "2025-08-08 02:29:43 +0000",
       "minecraft:savanna": "2025-08-08 02:54:07 +0000"
     },
@@ -408,6 +409,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-05 01:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-08 03:14:14 +0000"
     },
     "done": true
   },
