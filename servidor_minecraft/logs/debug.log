@@ -17443,3 +17443,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Aug2025 06:35:39.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [08Aug2025 06:35:39.609] [Server thread/INFO] [tac/]: PENDING
 [08Aug2025 06:35:50.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to -51.500000, 70.500000, -944.500000]
+[08Aug2025 06:36:13.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Raven2332 to Mike_dfs]
+[08Aug2025 06:36:47.616] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[08Aug2025 06:36:47.616] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[08Aug2025 06:36:51.282] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[08Aug2025 06:36:58.340] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[08Aug2025 06:36:58.340] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -3] Saved.
+[08Aug2025 06:36:58.340] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[08Aug2025 06:36:58.341] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[08Aug2025 06:36:58.342] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[08Aug2025 06:36:58.358] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[08Aug2025 06:36:58.360] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[08Aug2025 06:36:58.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:36:58.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:37:58.710] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[08Aug2025 06:39:38.670] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[08Aug2025 06:40:07.816] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[08Aug2025 06:41:58.338] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[08Aug2025 06:41:58.338] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[08Aug2025 06:41:58.338] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[08Aug2025 06:41:58.339] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[08Aug2025 06:41:58.350] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[08Aug2025 06:41:58.350] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[08Aug2025 06:41:58.350] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[08Aug2025 06:41:58.351] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[08Aug2025 06:41:58.351] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[08Aug2025 06:41:58.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 06:41:58.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 06:42:19.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Suit Up]
+[08Aug2025 06:43:27.716] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[08Aug2025 06:44:34.678] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
