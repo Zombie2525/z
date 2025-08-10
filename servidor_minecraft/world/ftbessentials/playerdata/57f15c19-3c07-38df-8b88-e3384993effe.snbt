@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "Mike_dfs"
-	last_seen: { dim: "minecraft:overworld", x: 265, y: 122, z: -1111, time: 1754722979372L, xRot: 53.699745f, yRot: 79.82501f }
+	last_seen: { dim: "minecraft:overworld", x: 266, y: 111, z: -1113, time: 1754723681821L, xRot: 19.650053f, yRot: 121.42389f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 17, y: 74, z: -48, time: 1754634611729L, xRot: 0.6000028f, yRot: 112.80001f }

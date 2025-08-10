@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2025-08-09 07:04:34 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-08-05 01:27:09 +0000"
