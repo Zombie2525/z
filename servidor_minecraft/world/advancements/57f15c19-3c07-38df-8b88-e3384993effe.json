@@ -409,8 +409,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-08-11 23:03:25 +0000",
       "shrubland": "2025-08-08 03:02:34 +0000",
       "scrubland": "2025-08-05 01:27:48 +0000",
+      "old_growth_woodland": "2025-08-11 23:03:27 +0000",
       "mediterranean_forest": "2025-08-05 01:27:09 +0000"
     },
     "done": false

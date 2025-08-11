@@ -465,6 +465,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-11 23:01:35 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:02:30 +0000"
@@ -607,6 +613,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-11 23:00:24 +0000"
     },
     "done": true
   },
