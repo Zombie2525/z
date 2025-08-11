@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2025-08-11 22:20:45 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:02:30 +0000"
@@ -218,6 +224,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-11 22:18:55 +0000"
     },
     "done": true
   },
@@ -380,12 +392,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-08-08 07:03:38 +0000",
+      "clover_patch": "2025-08-11 22:22:19 +0000",
       "mediterranean_forest": "2025-08-08 07:02:30 +0000"
     },
     "done": false
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-08-11 22:20:14 +0000",
       "minecraft:river": "2025-08-08 07:06:17 +0000",
       "minecraft:stony_shore": "2025-08-08 07:35:06 +0000",
       "minecraft:forest": "2025-08-08 07:06:49 +0000",
