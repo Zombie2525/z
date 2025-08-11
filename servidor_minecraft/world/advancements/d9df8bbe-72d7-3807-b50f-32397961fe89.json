@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-08-11 23:09:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:02:30 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-08-11 23:14:02 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-08-08 07:02:30 +0000"
@@ -365,6 +377,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2025-08-11 23:14:18 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-08-08 07:02:30 +0000"
@@ -398,6 +416,12 @@
       "mediterranean_forest": "2025-08-08 07:02:30 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-11 23:31:02 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {

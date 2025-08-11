@@ -7,16 +7,16 @@
 	last_seen: { dim: "minecraft:overworld", x: 266, y: 111, z: -1113, time: 1754953219275L, xRot: 19.650053f, yRot: 121.42389f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -32, y: 73, z: -885, time: 1754634619575L, xRot: 12.750034f, yRot: 38.40005f }
-		{ dim: "minecraft:overworld", x: -55, y: 72, z: 24, time: 1754634658223L, xRot: 15.149993f, yRot: 69.14971f }
-		{ dim: "minecraft:overworld", x: 16, y: 74, z: -48, time: 1754634663988L, xRot: 0.0f, yRot: 0.0f }
-		{ dim: "minecraft:overworld", x: 88, y: 72, z: -871, time: 1754636927761L, xRot: 12.378571f, yRot: 93.69922f }
-		{ dim: "minecraft:overworld", x: 24, y: 79, z: -828, time: 1754637041234L, xRot: 11.582493f, yRot: -107.51013f }
-		{ dim: "minecraft:overworld", x: 27, y: 78, z: -818, time: 1754637189437L, xRot: 31.500046f, yRot: 65.18005f }
-		{ dim: "minecraft:overworld", x: -20, y: 80, z: -801, time: 1754638413547L, xRot: 12.299748f, yRot: -14.355385f }
 		{ dim: "minecraft:overworld", x: 285, y: 72, z: -1103, time: 1754638420229L, xRot: -65.854294f, yRot: 171.43005f }
 		{ dim: "minecraft:overworld", x: 279, y: 96, z: -1109, time: 1754638442131L, xRot: 22.949972f, yRot: 155.77997f }
 		{ dim: "minecraft:overworld", x: 265, y: 111, z: -1115, time: 1754953404785L, xRot: 18.749975f, yRot: 104.92343f }
+		{ dim: "minecraft:overworld", x: 245, y: 96, z: 79, time: 1754954229531L, xRot: -77.24995f, yRot: -72.18873f }
+		{ dim: "minecraft:overworld", x: 231, y: 115, z: 56, time: 1754954377092L, xRot: 5.7945867f, yRot: -41.67743f }
+		{ dim: "minecraft:overworld", x: 249, y: 114, z: 87, time: 1754954380597L, xRot: 2.4f, yRot: 163.20007f }
+		{ dim: "minecraft:overworld", x: 235, y: 114, z: 50, time: 1754955007605L, xRot: -8.330067f, yRot: -6.952362f }
+		{ dim: "minecraft:overworld", x: 235, y: 90, z: 52, time: 1754955170274L, xRot: 21.000067f, yRot: -140.00809f }
+		{ dim: "minecraft:overworld", x: 249, y: 114, z: 87, time: 1754955186176L, xRot: 2.9802322E-8f, yRot: 160.95006f }
+		{ dim: "minecraft:overworld", x: 232, y: 90, z: 50, time: 1754955200634L, xRot: 9.961752f, yRot: 74.596344f }
 	]
 	homes: { }
 }
