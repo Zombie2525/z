@@ -1244,3 +1244,59 @@
 [11Aug2025 23:33:37.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
 [11Aug2025 23:33:39.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [11Aug2025 23:33:39.114] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:33:43.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Zombie
+[11Aug2025 23:33:45.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:33:45.052] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:33:46.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:33:48.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:33:48.011] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:33:54.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[11Aug2025 23:34:04.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[11Aug2025 23:34:05.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:34:05.479] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:34:06.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:34:07.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:34:07.696] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:34:09.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[11Aug2025 23:34:39.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> Ese no se escucha como el michi
+[11Aug2025 23:34:51.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> Ya rompen bloques
+[11Aug2025 23:35:06.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Raven2332
+[11Aug2025 23:35:07.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:35:07.852] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:35:44.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 died because of Zombie
+[11Aug2025 23:35:46.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:35:46.185] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:36:38.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> tienen madera?
+[11Aug2025 23:36:57.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[11Aug2025 23:36:58.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:36:58.251] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:38:06.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Stone Age]
+[11Aug2025 23:38:27.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:38:29.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:38:29.061] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:38:29.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=233, y=84, z=59}
+[11Aug2025 23:38:37.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs moved wrongly!
+[11Aug2025 23:39:19.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Mike_dfs
+[11Aug2025 23:39:20.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:39:20.845] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:40:02.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Mike_dfs
+[11Aug2025 23:40:03.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:40:03.128] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:40:08.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> Ya agarre todo
+[11Aug2025 23:40:10.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> fuga
+[11Aug2025 23:41:18.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 died
+[11Aug2025 23:41:19.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:41:19.617] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:41:22.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 229.500000, 96.500000, 54.500000]
+[11Aug2025 23:41:57.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Raven2332 moved wrongly!
+[11Aug2025 23:42:27.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:42:29.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:42:29.079] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:42:56.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 230.500000, 108.500000, -105.500000]
+[11Aug2025 23:42:56.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:42:57.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:42:57.989] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:43:04.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was burnt to a crisp whilst fighting Zombie
+[11Aug2025 23:43:05.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:43:05.480] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:43:21.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
