@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "MichiDAce"
-	last_seen: { dim: "minecraft:overworld", x: 315, y: 81, z: -1130, time: 1754638834582L, xRot: 3.450019f, yRot: 149.99994f }
+	last_seen: { dim: "minecraft:overworld", x: 315, y: 81, z: -1130, time: 1754950273013L, xRot: 3.450019f, yRot: 149.99994f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -38, y: 72, z: 84, time: 1754636809739L, xRot: 33.150276f, yRot: -95.70053f }
