@@ -422,6 +422,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-08-11 22:42:37 +0000",
       "shrubland": "2025-08-08 03:02:34 +0000",
       "scrubland": "2025-08-08 01:54:00 +0000",
       "clover_patch": "2025-08-11 22:27:15 +0000",

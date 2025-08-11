@@ -17407,3 +17407,55 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Aug2025 22:42:53.749] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
 [11Aug2025 22:42:54.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [11Aug2025 22:42:54.384] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 22:43:02.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 186.500000, 90.500000, 110.500000]
+[11Aug2025 22:43:31.516] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Aug2025 22:43:31.517] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Aug2025 22:43:38.735] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -3] Saved.
+[11Aug2025 22:43:38.735] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -4] Saved.
+[11Aug2025 22:43:38.736] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[11Aug2025 22:43:38.737] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -3] Saved.
+[11Aug2025 22:43:38.737] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -4] Saved.
+[11Aug2025 22:43:38.737] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[11Aug2025 22:43:38.738] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[11Aug2025 22:43:38.739] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[11Aug2025 22:43:38.740] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[11Aug2025 22:43:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[11Aug2025 22:43:38.754] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[11Aug2025 22:43:38.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 22:43:38.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 22:43:56.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Bison
+[11Aug2025 22:43:58.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 22:43:58.966] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 22:44:30.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Bison
+[11Aug2025 22:44:32.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 22:44:32.347] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 22:44:36.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to MichiDAce]
+[11Aug2025 22:44:47.131] [Server thread/DEBUG] [mixin/]: Mixing bugfix.unsafe_modded_shape_caches.ShapeCacheRSMixin from modernfix-forge.mixins.json into com.refinedmods.refinedstorage.block.shape.ShapeCache
+[11Aug2025 22:44:47.134] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[11Aug2025 22:45:48.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 103.500000, 77.500000, 91.500000]
+[11Aug2025 22:46:08.379] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[11Aug2025 22:46:08.380] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[11Aug2025 22:46:51.716] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Aug2025 22:47:20.693] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of MichiDAce: {disabled=false, disconnected=false, uuid=d9df8bbe-72d7-3807-b50f-32397961fe89, name=MichiDAce, group=null}
+[11Aug2025 22:47:38.328] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=false, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[11Aug2025 22:47:38.574] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=true, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[11Aug2025 22:47:44.224] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[11Aug2025 22:47:45.078] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Raven2332: {disabled=false, disconnected=false, uuid=09ca8806-40e5-3b0c-9d51-db2e369539c3, name=Raven2332, group=null}
+[11Aug2025 22:48:38.730] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[11Aug2025 22:48:38.731] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[11Aug2025 22:48:38.732] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[11Aug2025 22:48:38.740] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[11Aug2025 22:48:38.740] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[11Aug2025 22:48:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[11Aug2025 22:48:38.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 22:48:38.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 22:49:05.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 228.500000, 118.500000, 105.500000]
+[11Aug2025 22:50:11.616] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Aug2025 22:50:36.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to MichiDAce]
+[11Aug2025 22:50:36.274] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[11Aug2025 22:50:46.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 231.500000, 118.500000, 102.500000]
+[11Aug2025 22:52:38.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
+[11Aug2025 22:52:39.077] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[11Aug2025 22:52:39.078] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[11Aug2025 22:52:39.079] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[11Aug2025 22:52:39.079] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
