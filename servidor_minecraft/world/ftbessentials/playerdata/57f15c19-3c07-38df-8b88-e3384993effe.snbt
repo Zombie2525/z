@@ -7,16 +7,16 @@
 	last_seen: { dim: "minecraft:overworld", x: 266, y: 111, z: -1113, time: 1754953219275L, xRot: 19.650053f, yRot: 121.42389f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 249, y: 114, z: 87, time: 1754955186176L, xRot: 2.9802322E-8f, yRot: 160.95006f }
-		{ dim: "minecraft:overworld", x: 226, y: 90, z: 52, time: 1754955226930L, xRot: -0.94814396f, yRot: -125.665344f }
-		{ dim: "minecraft:overworld", x: 244, y: 115, z: 83, time: 1754955234238L, xRot: 12.599995f, yRot: 120.60034f }
-		{ dim: "minecraft:overworld", x: 226, y: 90, z: 50, time: 1754955246523L, xRot: 27.03014f, yRot: -80.65073f }
-		{ dim: "minecraft:overworld", x: 249, y: 114, z: 87, time: 1754955249359L, xRot: 0.30000004f, yRot: 179.85f }
-		{ dim: "minecraft:overworld", x: 237, y: 88, z: 51, time: 1754955306461L, xRot: 64.545654f, yRot: 37.43686f }
 		{ dim: "minecraft:overworld", x: 237, y: 84, z: 60, time: 1754955507572L, xRot: 24.187351f, yRot: 116.06885f }
 		{ dim: "minecraft:overworld", x: 211, y: 97, z: 81, time: 1754955747928L, xRot: 9.89977f, yRot: 30.702515f }
 		{ dim: "minecraft:overworld", x: 212, y: 97, z: 89, time: 1754955776777L, xRot: 23.550112f, yRot: -48.59909f }
 		{ dim: "minecraft:overworld", x: 207, y: 97, z: 86, time: 1754955784279L, xRot: 18.600023f, yRot: -178.19862f }
+		{ dim: "minecraft:overworld", x: 190, y: 108, z: 100, time: 1754955905095L, xRot: 21.600069f, yRot: -108.453156f }
+		{ dim: "minecraft:overworld", x: 233, y: 108, z: -105, time: 1754955927036L, xRot: 46.67864f, yRot: 168.32404f }
+		{ dim: "minecraft:overworld", x: 138, y: 71, z: -150, time: 1754956252941L, xRot: 20.550133f, yRot: -165.89369f }
+		{ dim: "minecraft:overworld", x: 239, y: 90, z: -110, time: 1754956331604L, xRot: 20.399837f, yRot: 170.71758f }
+		{ dim: "minecraft:overworld", x: 240, y: 100, z: -104, time: 1754956389627L, xRot: 63.567207f, yRot: -178.11285f }
+		{ dim: "minecraft:overworld", x: 239, y: 90, z: -102, time: 1754956398222L, xRot: 41.400005f, yRot: -166.04996f }
 	]
 	homes: { }
 }

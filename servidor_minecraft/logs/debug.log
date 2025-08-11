@@ -18179,3 +18179,85 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Aug2025 23:43:38.753] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-224
 [11Aug2025 23:43:38.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Aug2025 23:43:38.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 23:44:22.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:44:23.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:44:23.402] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:45:05.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[11Aug2025 23:45:27.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by MichiDAce
+[11Aug2025 23:45:28.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:45:28.168] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:46:52.016] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Aug2025 23:46:56.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Mike_dfs> Ocupo espada no tengo y pico
+[11Aug2025 23:47:04.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[11Aug2025 23:47:05.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:47:05.429] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:47:13.758] [IO-Worker-222/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-225
+[11Aug2025 23:47:13.758] [IO-Worker-208/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-227
+[11Aug2025 23:47:13.758] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-226
+[11Aug2025 23:47:26.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[11Aug2025 23:47:27.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:47:27.947] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:47:36.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:47:37.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:47:37.610] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:48:05.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:48:06.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:48:06.899] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:48:35.228] [IO-Worker-227/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-228
+[11Aug2025 23:48:38.749] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[11Aug2025 23:48:38.749] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-229
+[11Aug2025 23:48:38.750] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-230
+[11Aug2025 23:48:38.758] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-231
+[11Aug2025 23:48:38.758] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-232
+[11Aug2025 23:48:38.758] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
+[11Aug2025 23:48:38.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 23:48:38.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 23:48:53.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Infected Police
+[11Aug2025 23:48:55.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:48:55.262] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:49:01.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:49:03.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:49:03.237] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:49:58.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs has made the advancement [Isn't It Iron Pick]
+[11Aug2025 23:50:11.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
+[11Aug2025 23:50:11.916] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Aug2025 23:50:45.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Raven2332
+[11Aug2025 23:50:46.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:50:46.389] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:50:52.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[11Aug2025 23:50:53.040] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-234
+[11Aug2025 23:52:11.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Mike_dfs: Teleported Mike_dfs to Raven2332]
+[11Aug2025 23:52:15.206] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[11Aug2025 23:52:20.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
+[11Aug2025 23:52:20.182] [IO-Worker-231/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-236
+[11Aug2025 23:52:52.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Raven2332
+[11Aug2025 23:52:53.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:52:53.718] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:53:09.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Demolisher
+[11Aug2025 23:53:10.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:53:10.790] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:53:18.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs was slain by Zombie
+[11Aug2025 23:53:19.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:53:19.450] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:53:19.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Demolisher
+[11Aug2025 23:53:21.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:53:21.508] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:53:31.866] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Aug2025 23:53:31.866] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Aug2025 23:53:38.738] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
+[11Aug2025 23:53:38.738] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-238
+[11Aug2025 23:53:38.747] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-240
+[11Aug2025 23:53:38.747] [IO-Worker-235/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[11Aug2025 23:53:38.747] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-241
+[11Aug2025 23:53:38.748] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
+[11Aug2025 23:53:38.748] [IO-Worker-240/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-243
+[11Aug2025 23:53:38.748] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-244
+[11Aug2025 23:53:38.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 23:53:38.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 23:53:54.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 57f15c19-3c07-38df-8b88-e3384993effe timed out
+[11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Mike_dfs
+[11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Mike_dfs
+[11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Mike_dfs
+[11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Mike_dfs
+[11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mike_dfs
+[11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 57f15c19-3c07-38df-8b88-e3384993effe to disconnected: {disabled=true, disconnected=true, uuid=57f15c19-3c07-38df-8b88-e3384993effe, name=Mike_dfs, group=null}
