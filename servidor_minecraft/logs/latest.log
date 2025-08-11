@@ -1117,3 +1117,33 @@
 [11Aug2025 22:50:36.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to MichiDAce]
 [11Aug2025 22:50:46.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 231.500000, 118.500000, 102.500000]
 [11Aug2025 22:52:38.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
+[11Aug2025 22:53:51.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@44bf810
+[11Aug2025 22:55:41.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to MichiDAce]
+[11Aug2025 22:56:09.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[11Aug2025 22:56:10.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 22:56:10.514] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 22:56:23.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to MichiDAce]
+[11Aug2025 23:00:19.234] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18398e2e
+[11Aug2025 23:00:19.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mike_dfs[/100.85.56.4:56504] logged in with entity id 317981 at (266.60992927571306, 111.0, -1112.1496718982762)
+[11Aug2025 23:00:19.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs joined the game
+[11Aug2025 23:00:19.259] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:00:19.276] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f15c19-3c07-38df-8b88-e3384993effe
+[11Aug2025 23:00:22.079] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mike_dfs (17)
+[11Aug2025 23:00:22.079] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mike_dfs
+[11Aug2025 23:00:24.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Getting an Upgrade]
+[11Aug2025 23:00:31.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 has made the advancement [Getting an Upgrade]
+[11Aug2025 23:00:39.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 57f15c19-3c07-38df-8b88-e3384993effe
+[11Aug2025 23:00:40.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 57f15c19-3c07-38df-8b88-e3384993effe
+[11Aug2025 23:00:40.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mike_dfs (57f15c19-3c07-38df-8b88-e3384993effe) successfully connected to voice chat
+[11Aug2025 23:01:35.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce has made the advancement [Disme A Dozen]
+[11Aug2025 23:02:22.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Husk
+[11Aug2025 23:02:23.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:02:23.248] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:02:25.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Husk
+[11Aug2025 23:02:27.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:02:27.244] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:02:34.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 244.500000, 103.500000, 91.500000]
+[11Aug2025 23:02:38.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Husk
+[11Aug2025 23:02:40.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:02:40.140] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:03:13.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 248.500000, 114.500000, 86.500000]
