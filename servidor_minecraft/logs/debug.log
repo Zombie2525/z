@@ -18261,3 +18261,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Mike_dfs
 [11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Mike_dfs
 [11Aug2025 23:53:54.437] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 57f15c19-3c07-38df-8b88-e3384993effe to disconnected: {disabled=true, disconnected=true, uuid=57f15c19-3c07-38df-8b88-e3384993effe, name=Mike_dfs, group=null}
+[11Aug2025 23:54:01.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Demolisher
+[11Aug2025 23:54:02.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:54:02.179] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:55:13.625] [IO-Worker-235/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-245
+[11Aug2025 23:55:43.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mike_dfs lost connection: Disconnected
+[11Aug2025 23:55:43.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mike_dfs left the game
+[11Aug2025 23:55:43.931] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 57f15c19-3c07-38df-8b88-e3384993effe
+[11Aug2025 23:55:43.933] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mike_dfs
+[11Aug2025 23:55:43.934] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mike_dfs
+[11Aug2025 23:56:52.066] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Aug2025 23:57:32.025] [IO-Worker-245/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-246
+[11Aug2025 23:58:38.733] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-247
+[11Aug2025 23:58:38.733] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-248
+[11Aug2025 23:58:38.734] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-249
+[11Aug2025 23:58:38.735] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[11Aug2025 23:58:38.742] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[11Aug2025 23:58:38.742] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
+[11Aug2025 23:58:38.743] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-253
+[11Aug2025 23:58:38.743] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-254
+[11Aug2025 23:58:38.743] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-255
+[11Aug2025 23:58:38.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 23:58:38.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 23:58:54.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[11Aug2025 23:58:55.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:58:55.431] [Server thread/INFO] [tac/]: PENDING
+[11Aug2025 23:59:55.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Husk
+[11Aug2025 23:59:56.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Aug2025 23:59:56.280] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:00:11.966] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Aug2025 00:00:40.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:00:41.877] [IO-Worker-250/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-256
+[12Aug2025 00:00:42.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:00:42.005] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:02:55.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Husk
+[12Aug2025 00:02:56.632] [IO-Worker-246/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-257
+[12Aug2025 00:02:56.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:02:56.667] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:03:31.916] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Aug2025 00:03:31.917] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Aug2025 00:03:38.732] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-258
+[12Aug2025 00:03:38.732] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-259
+[12Aug2025 00:03:38.739] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-260
+[12Aug2025 00:03:38.740] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-261
+[12Aug2025 00:03:38.740] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-262
+[12Aug2025 00:03:38.740] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-263
+[12Aug2025 00:03:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-264
+[12Aug2025 00:03:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-265
+[12Aug2025 00:03:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-266
+[12Aug2025 00:03:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-267
+[12Aug2025 00:03:38.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 00:03:38.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
