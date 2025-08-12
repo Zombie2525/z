@@ -18312,3 +18312,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Aug2025 00:03:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-267
 [12Aug2025 00:03:38.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Aug2025 00:03:38.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 00:05:32.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:05:33.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:05:33.481] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:06:05.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:06:07.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:06:07.280] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:06:52.116] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Aug2025 00:07:11.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Husk
+[12Aug2025 00:07:12.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:07:12.780] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:07:15.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:07:21.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:07:21.309] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:08:02.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Zombie
+[12Aug2025 00:08:03.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:08:03.947] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:08:18.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:08:19.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:08:19.381] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:08:38.733] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-268
+[12Aug2025 00:08:38.733] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-269
+[12Aug2025 00:08:38.734] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-270
+[12Aug2025 00:08:38.742] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-271
+[12Aug2025 00:08:38.742] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-272
+[12Aug2025 00:08:38.743] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-273
+[12Aug2025 00:08:38.743] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-274
+[12Aug2025 00:08:38.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 00:08:38.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 00:08:47.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 250.500000, 96.500000, -106.500000]
+[12Aug2025 00:08:52.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Zombie
+[12Aug2025 00:08:53.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:08:53.818] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:09:00.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:09:01.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:09:01.135] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:09:31.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Zombie
+[12Aug2025 00:09:32.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:09:32.979] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:09:48.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Raven2332 was slain by Zombie
+[12Aug2025 00:09:49.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:09:49.682] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:10:12.016] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Aug2025 00:10:27.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported Raven2332 to 234.500000, 108.500000, -102.500000]
+[12Aug2025 00:10:27.532] [IO-Worker-258/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-275
+[12Aug2025 00:11:15.174] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[12Aug2025 00:11:15.174] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-08-09_07-03-00.zip"
+[12Aug2025 00:12:30.625] [IO-Worker-250/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-276
+[12Aug2025 00:12:37.089] [IO-Worker-276/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-277
+[12Aug2025 00:12:45.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
+[12Aug2025 00:12:56.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MichiDAce was slain by Raven2332
+[12Aug2025 00:12:57.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[12Aug2025 00:12:57.502] [Server thread/INFO] [tac/]: PENDING
+[12Aug2025 00:13:17.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Raven2332: Teleported MichiDAce to Raven2332]
+[12Aug2025 00:13:31.966] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Aug2025 00:13:31.966] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Aug2025 00:13:38.733] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[12Aug2025 00:13:38.733] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-278
+[12Aug2025 00:13:38.733] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-279
+[12Aug2025 00:13:38.734] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-280
+[12Aug2025 00:13:38.741] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-281
+[12Aug2025 00:13:38.742] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-282
+[12Aug2025 00:13:38.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 00:13:38.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
